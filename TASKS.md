@@ -6,24 +6,25 @@
   - [x] Create virtual environment
   - [x] Install `twitchio` and `pydirectinput`
 
-- [ ] **Step 2: The Twitch Listener**
-  - [ ] Create `twitch_listener.py`
-  - [ ] Set up basic bot with `twitchio`
-  - [ ] Test reading chat and printing to console
+- [/] **Step 2: The Twitch Listener** 🔨
+  - [x] Create `twitch_listener.py`
+  - [x] Set up basic bot with `twitchio`
+  - [ ] Test reading chat and printing to console ← **You need to do this!**
 
-- [ ] **Step 3: The Command Parser**
-  - [ ] Create `command_parser.py`
-  - [ ] Filter raw chat messages for allowed commands
-  - [ ] Abstract out spam
+- [x] **Step 3: The Command Parser** ✅
+  - [x] Create `command_parser.py`
+  - [x] Filter raw chat messages for allowed commands
+  - [x] Abstract out spam
+  - [x] Integrate parser into `twitch_listener.py`
 
-- [ ] **Step 4: The Input Emulator**
-  - [ ] Create `input_emulator.py`
-  - [ ] Implement robust `pydirectinput` keystrokes
-  - [ ] Test keystrokes in simple application (e.g., Notepad)
+- [/] **Step 4: The Input Emulator** 🔨
+  - [x] Create `input_emulator.py`
+  - [x] Implement robust `pydirectinput` keystrokes
+  - [ ] Test keystrokes in simple application (e.g., Notepad) ← **You need to do this!**
 
-- [ ] **Step 5: The Configuration System**
-  - [ ] Create `config.json`
-  - [ ] Create logic to load mappings (e.g., `"up": "w"`) from JSON instead of hardcoded
+- [x] **Step 5: The Configuration System** ✅
+  - [x] Create `config.json`
+  - [x] Create logic to load mappings (e.g., `"up": "w"`) from JSON instead of hardcoded
 
 - [ ] **Step 6: Integration (The Final Bot)**
   - [ ] Create `main.py`

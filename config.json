@@ -1,0 +1,14 @@
+{
+    "key_hold_duration": 0.1,
+
+    "commands": {
+        "up":     "w",
+        "down":   "s",
+        "left":   "a",
+        "right":  "d",
+        "jump":   "space",
+        "attack": "e",
+        "start":  "escape",
+        "select": "tab"
+    }
+}
