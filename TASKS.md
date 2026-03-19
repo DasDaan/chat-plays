@@ -26,10 +26,10 @@
   - [x] Create `config.json`
   - [x] Create logic to load mappings (e.g., `"up": "w"`) from JSON instead of hardcoded
 
-- [ ] **Step 6: Integration (The Final Bot)**
-  - [ ] Create `main.py`
-  - [ ] Tie listener, parser, configuration, and emulator together
-  - [ ] Test in a real game environment
+- [/] **Step 6: Integration (The Final Bot)** 🔨
+  - [x] Create `main.py`
+  - [x] Tie listener, parser, configuration, and emulator together
+  - [ ] Test in a real game environment ← **You need to do this!**
 
 - [ ] **Step 7: Personalization & Expansion**
   - [ ] Discuss and add custom features (Democracy mode, User whitelists, delays, etc.)
