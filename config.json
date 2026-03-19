@@ -6,8 +6,8 @@
         "down":   "s",
         "left":   "a",
         "right":  "d",
-        "jump":   "space",
-        "attack": "e",
+        "jump":   {"key": "space", "duration": 0.5},
+        "attack": {"key": "e", "duration": 0.1},
         "start":  "escape",
         "select": "tab"
     }
